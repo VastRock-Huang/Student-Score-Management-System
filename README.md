@@ -1,4 +1,4 @@
 # Student-Score-Management-System
-A project completed in C for the first time. The function of the system is relatively simple.  
-The biggest problem with the project is that almost all functions do not return, which is not recommended to learn.
-* PS: The teacher registration key is: `teacher`.
+学生成绩管理系统  
+该项目是我第一次使用C语言编写程序, 功能比较简单. 最大的问题是大多数函数都没有返回, 这一点很不值得借鉴.  
+* PS: 教师注册秘钥: `teacher`.
